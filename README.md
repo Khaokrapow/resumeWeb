@@ -6,9 +6,9 @@
 
 1.Clone โปรเจ็ค:
 
-   `git clone https://github.com/Khaokrapow/resumeWeb.git`
-   ตามด้วย
-   `cd resumeWeb`
+    `git clone https://github.com/Khaokrapow/resumeWeb.git`
+   
+    `cd resumeWeb`
 
 2.ติดตั้ง Dependencies: ก่อนที่จะเริ่มรันแอปพลิเคชัน เพื่อให้ใช้งานได้:
 
